@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+}
+
+.box {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: left;
+}
+
+dt {
+  font-weight: 500;
+}
